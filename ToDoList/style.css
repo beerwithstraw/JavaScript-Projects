@@ -5,6 +5,15 @@
 }
 
 body {
+    background-color: #f5f5f5;
     font-family: "Poppins", sans-serif;
     margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: rebeccapurple;
+    font-size: 5rem;
+    justify-content: center;
+    flex-direction: column;
 }
