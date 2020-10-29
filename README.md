@@ -7,3 +7,4 @@
 ## 3. To Do List ([View Project](https://beerwithstraw.github.io/ToDoList/index.html))
 ## 4. GitHub Profiles Finder ([View Project](https://beerwithstraw.github.io/GithubProfiles/index.html))
 ## 5. Weather App ([View Project](https://beerwithstraw.github.io/WeatherApp/index.html))
+## 6. Quiz App ([View Project](https://beerwithstraw.github.io/QuizApp/index.html))
