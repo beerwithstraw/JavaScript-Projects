@@ -3,7 +3,7 @@
  const minutesF = document.getElementById('minutes');
  const secondsF = document.getElementById('seconds');
 
-const ganjebday = "21 November 2020";
+const ganjebday = "6 December 2020";
 
 function countdown(){
     const bdayDate = new Date(ganjebday);
